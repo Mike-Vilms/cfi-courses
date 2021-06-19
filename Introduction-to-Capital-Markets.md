@@ -49,5 +49,7 @@
     - **Product Group**: is an industry agnostic group and focuses on **delivering one service across the insdustries**:
       - **Mergers and Aquisitions (M&A)**: they specifically offer one product: financiary advisory work on M&A-related activities across all industries; **it is the only IBD team that does this**;
       - **Origination** is nestled within Product Group as well; However, **unlike all IBD teams, the "Origination Group" deals with securities**; as a result, **they are the part of the "Capital Markets"**;
-  - **CM Division**: 
+  - **CM Division**: has "Sales and Trading"(S&T) and "Research"
+    - Within S&T there are several teams which are often called **"desks"** with each desk being dedicated to specific asset classes
+    - Research is similar but slightly more broad
 
