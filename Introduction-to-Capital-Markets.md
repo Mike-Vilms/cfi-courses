@@ -47,5 +47,7 @@
       - Consumer and Retail
       - Healthcare
     - **Product Group**: is an industry agnostic group and focuses on **delivering one service across the insdustries**:
-      - **Mergers and Aquisitions (M&A)**: they specifically offer one product: financiary advisory work on M&A-related activities across all industries  
+      - **Mergers and Aquisitions (M&A)**: they specifically offer one product: financiary advisory work on M&A-related activities across all industries; **it is the only IBD team that does this**;
+      - **Origination** is nestled within Product Group as well; However, **unlike all IBD teams, the "Origination Group" deals with securities**; as a result, **they are the part of the "Capital Markets"**;
+  - **CM Division**: 
 
