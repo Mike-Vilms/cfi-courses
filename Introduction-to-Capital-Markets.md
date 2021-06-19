@@ -45,6 +45,7 @@
       - Telecom, Media and Tech (TMT)
       - Oil and Gas
       - Consumer and Retail
-      - Healthcare  
-    - **Product Group** 
+      - Healthcare
+    - **Product Group**: is an industry agnostic group and focuses on **delivering one service across the insdustries**:
+      - **Mergers and Aquisitions (M&A)**: offers one 
 
