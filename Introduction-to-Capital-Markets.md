@@ -32,5 +32,7 @@
     - The Carlyle Group
     - Apollo Global Management
 
-## 
+## Sell Side
+![image](https://user-images.githubusercontent.com/85560091/122647640-c7539380-d0ea-11eb-93ad-a6de6ba69d28.png)
+
 
