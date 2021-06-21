@@ -9,7 +9,7 @@
 - https://corporatefinanceinstitute.com/resources/careers/jobs/ibd-investment-banking-division/
 
 - https://www.wallstreetprep.com/knowledge/sell-side-vs-buy-side/#The_sell-side
-
+- http://sellsidehandbook.com/careers/sales-trading/
 
 ## Defining Capital Markets
 - The securities can be bought and sold on two types of markets:
