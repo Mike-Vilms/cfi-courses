@@ -58,5 +58,5 @@
 - Work of IBD team feeds the work for origination team; Team members in IBD unit are actively speaking with corporate clients to serve as financial advisors and win mandates like financing activities.
 - **IBD team** mantains and manages overall relationship with clients and **origination team** are the ones that get the work done when clients decide whether they need debt or equity financing solutions.
 - Both taeams act in **primary markets**.
-- **DCM** underwrites debt: 
-- **ECM** underwrites equity: 
+- **DCM** underwrites debt: high-yeild bonds to investment-grade bonds
+- **ECM** underwrites equity: common shares, preffered shares
