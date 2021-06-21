@@ -52,4 +52,11 @@
   - **CM Division**: has "Sales and Trading"(S&T) and "Research"
     - Within S&T there are several teams which are often called **"desks"** with each desk being dedicated to specific asset classes
     - Research is similar but slightly more broad
-
+### Origination, Primary Markets
+- Origination team acts as middle-man between issuers that need to raise a capital and institutional investors with access capital.
+- Whole process of helping corporations to bring securities to market (issue securities) is called **"underwriting"**.
+- Work of IBD team feeds the work for origination team; Team members in IBD unit are actively speaking with corporate clients to serve as financial advisors and win mandates like financing activities.
+- **IBD team** mantains and manages overall relationship with clients and **origination team** are the ones that get the work done when clients decide whether they need debt or equity financing solutions.
+- Both taeams act in **primary markets**.
+- **DCM** underwrites debt: 
+- **ECM** underwrites equity: 
