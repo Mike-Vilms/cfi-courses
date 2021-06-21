@@ -8,6 +8,9 @@
 - https://corporatefinanceinstitute.com/resources/careers/jobs/investment-banking-overview/
 - https://corporatefinanceinstitute.com/resources/careers/jobs/ibd-investment-banking-division/
 
+- https://www.wallstreetprep.com/knowledge/sell-side-vs-buy-side/#The_sell-side
+
+
 ## Defining Capital Markets
 - The securities can be bought and sold on two types of markets:
   - The primary market is when a company directly issues the securities in exchange for capital.
@@ -71,3 +74,6 @@
   - **Sales and Trading** will support the newly issued securities by trading them in the secondary markets
 
 ### Sell-Side S&T and Research: Secondary Market
+- Parties that are involved in secondary markets: "Sales, Trading and Research", "Buy-Side"
+- In addition to helping companies raise capital, the investment bank’s sales & trading arm facilitates and executes trades on behalf of institutional investors in the secondary markets, where the bank matches up institutional buyers and sellers.
+- 
