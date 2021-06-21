@@ -61,5 +61,13 @@
 - Both taeams act in **primary markets**.
 - **DCM** underwrites debt: high-yeild bonds to investment-grade bonds
 - **ECM** underwrites equity: common shares, preffered shares
+- Full cycle:
+  - There is an external client that wants to raise capital
+  - This corporation (CFO/Treasurer) will reach out to an investment bank and make first contact with the managing director that leads the industry group that the corporation operates in
+  - The IBD inits managing director and his/her team will listen to the client's needs and objectives and then put together a recommendation on what they believe is the most optimal
+  - After presenting client's team with aalysis, the IBD team will reach out to peers in origination
+  - After IBD team managing director approves, transaction will step into **Product Group**
+  - The product experts will then take the client through every detail of securities issuing process until the client's securities can be sold into a primary market 
+  - **Sales and Trading** will support the newly issued securities by trading them in the secondary markets
 
 ### Sell-Side S&T and Research: Secondary Market
