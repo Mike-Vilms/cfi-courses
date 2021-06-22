@@ -76,4 +76,5 @@
 ### Sell-Side S&T and Research: Secondary Market
 - Parties that are involved in secondary markets: "Sales, Trading and Research", "Buy-Side"
 - In addition to helping companies raise capital, the investment bank’s sales & trading arm facilitates and executes trades on behalf of institutional investors in the secondary markets, where the bank matches up institutional buyers and sellers.
-- 
+- Together Sales, Trading and Research offer their clients value by **providing market liquidity**, **granting access to live markets insights from real-time trading data** and **publishing deep data analysis and insights on a regular basis**
+  - Sales team acts as gatekeepers to the bank for institutional investors. They are referred as *client-facing*
