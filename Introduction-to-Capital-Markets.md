@@ -43,7 +43,7 @@
 
 ## Sell Side
 ![image](https://user-images.githubusercontent.com/85560091/122647761-65dff480-d0eb-11eb-9235-4e1c197d0ab3.png)
-- Within the investment bank there are two major divisions: **Investment Banking Division (or IBD)** and **Capital Markets ( or Securities)**
+- Within the investment bank there are two major divisions: **Investment Banking Division (or IBD)** and **Capital Markets (or Securities)**
   - **IBD**: is segmented in industry group coverage and product  
     - **Industry Group Coverage Teams** serve as relationship managers for large corporations seeking financial advisory services from the bank. They are **non-market facing (they do not directly deal with any sort of securities, debt or equity)**. Examples of **Industry Group Coverage Teams**
       - Financial Institutions
