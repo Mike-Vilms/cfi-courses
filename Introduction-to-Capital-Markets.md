@@ -73,7 +73,7 @@
 - Together Sales, Trading and Research offer their clients value by **providing market liquidity**, **granting access to live markets insights from real-time trading data** and **publishing deep data analysis and insights on a regular basis**
   - Sales team acts as gatekeepers to the bank for institutional investors. They are referred as *client-facing*
 - **Full Circle Transaction**:
-  - ![image](https://user-images.githubusercontent.com/85560091/124413979-65647200-dd17-11eb-9ebb-9558c5c5ab0a.png)
+![image](https://user-images.githubusercontent.com/85560091/124413979-65647200-dd17-11eb-9ebb-9558c5c5ab0a.png)
 
 ## Links
 - https://courses.corporatefinanceinstitute.com/courses/introduction-to-capital-markets
