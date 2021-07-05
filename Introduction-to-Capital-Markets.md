@@ -11,6 +11,9 @@
 - https://www.wallstreetprep.com/knowledge/sell-side-vs-buy-side/#The_sell-side
 - http://sellsidehandbook.com/careers/sales-trading/
 
+- Part I: https://www.youtube.com/watch?v=SZZG9UIRaXs
+- Part II: https://www.youtube.com/watch?v=gE4dkBWiaLU
+- Part III: 
 ## Defining Capital Markets
 - The securities can be bought and sold on two types of markets:
   - The primary market is when a company directly issues the securities in exchange for capital.
