@@ -89,3 +89,5 @@
 - Part I: https://www.youtube.com/watch?v=SZZG9UIRaXs
 - Part II: https://www.youtube.com/watch?v=gE4dkBWiaLU
 - Part III: 
+
+- Sales and Trading: S&T Explained: https://www.youtube.com/watch?v=bWCx6FTdEf4
