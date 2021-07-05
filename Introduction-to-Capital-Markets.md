@@ -91,3 +91,4 @@
 - Part III: 
 
 - Sales and Trading: S&T Explained: https://www.youtube.com/watch?v=bWCx6FTdEf4
+- https://corporatefinanceinstitute.com/resources/careers/jobs/sales-and-trading/
