@@ -76,6 +76,38 @@
 - **Full Circle Transaction**:
 ![image](https://user-images.githubusercontent.com/85560091/124413979-65647200-dd17-11eb-9ebb-9558c5c5ab0a.png)
 
+## Buy Side
+- All "Buy Side" firms share the same overall goal: to earn best possible returns for their investors and earn associated fees;
+- We can group them into two classes:
+  - Traditional
+  - Non-traditional
+- On traditional side we have:
+  - Pensions
+  - Insurance Companies
+  - Endowment Funds
+  - Mutual Funds
+- Non-traditional side:
+  - Hedge Funds
+  - Distressed Funds
+  - Venture Capital
+  - Private Equity
+  - Family Offices
+
+### Traditional Buy Side
+- Teams are grouped by asset classes, geo regions or combination of both
+  - Fixed Income; Equities; Commodities
+  - North America(NA); Europe Middle Ease and Africa(EMEA); Asia-Pacific(APAC); Emerging Markets(EM)
+- There are 3 types of activities: Investment Analysis(Conduct external research), Trade Execution(Call broker and booking trade), Portfolio Management(Rebalance portfolio positions)
+
+### Non-traditional Buy Side
+- Type of investors  that are able to participate in this funds are called **"Accredited Investors"**
+- These are people or institutions that have both wealth as well as knowledge about underlying risks
+- There are some key differences between two sides; Non-Traditional firms are:
+  - using significant level of leverage
+  - actively managed: aiming to be profitable regardless of market conditions
+  - (almost) unregulated
+  - Limited in their investor base
+
 ## Links
 - https://courses.corporatefinanceinstitute.com/courses/introduction-to-capital-markets
 - https://corporatefinanceinstitute.com/resources/knowledge/trading-investing/capital-markets/
