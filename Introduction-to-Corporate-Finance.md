@@ -30,4 +30,3 @@
   - **Common shares**: last liquidation position and last dividend position
   - **Preferred shares**: higher liquidation and higher dividend priority
   - **Shareholder loans**: Higher liquidation position; no dividends but pays interest
-  -  
