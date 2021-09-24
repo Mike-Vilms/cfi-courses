@@ -50,4 +50,7 @@
     - Mezzanine financing without warrants attached
     - Mezzanine financing with warrants attached: warrants would convert into shares of the company(and cause equity dilution)
     - PIK(Payment-in-kind) notes: have interest that accrudes and has not paid out intil the end  in one large payment
-    - Vendor note: when owner of a business is selling to a private equity firm and their going to recieve part of their payout for selling the firm later in the future - form of debt that company has to repay to that owner who sold his position later 
+    - Vendor note: when owner of a business is selling to a private equity firm and their going to recieve part of their payout for selling the firm later in the future - form of debt that company has to repay to that owner who sold his position later
+- Credit ratings:
+![image](https://user-images.githubusercontent.com/85560091/134607250-950b2f53-d312-4ef5-9b7f-bc82130ec947.png)
+
