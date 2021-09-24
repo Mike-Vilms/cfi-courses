@@ -38,4 +38,16 @@
   - Public:
     - Institutional
     - Retail
--  
+-  Debt overview:
+  - ```Senior debt```: 
+    - Revolver: revolving line of credit facility from a bank
+    - Term Loan A: have a fixed schedule where they repay or are amortized, and have a final principal repayment
+    - Term Loan B
+    - Term Loan C 
+  - Senior debt capacity: typically, banks and another lenders(commercial banks, credit companies, insurance companies) will provide 2x-3x EBITDA and require 2x interest coverage (???)
+  - ```Subordinated debt (Sub-Debt)```:
+    - High yield bonds (Junk bonds)
+    - Mezzanine financing without warrants attached
+    - Mezzanine financing with warrants attached: warrants would convert into shares of the company(and cause equity dilution)
+    - PIK(Payment-in-kind) notes: have interest that accrudes and has not paid out intil the end  in one large payment
+    - Vendor note: when owner of a business is selling to a private equity firm and their going to recieve part of their payout for selling the firm later in the future - form of debt that company has to repay to that owner who sold his position later 
