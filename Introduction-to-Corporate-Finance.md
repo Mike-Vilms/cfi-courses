@@ -69,4 +69,8 @@
   - **Best Efforts**: Underwriter commits to selling as much of the issue as possible at agreed-on offering price, but can return any unsold shares to the issues without financial responsibility. This type of commitment is more common
 
 ## Dividends and Return of Capital
-
+- Corporate managers have to make a choice if they want to:
+  - Distribute the earnings back to the shareholders in form of dividends or buybacks or
+  - Retain the excess earnings for future investments and operational requirements
+- In order to make this decision, managers have to answer the question: **Can I do better by re-investing the money than the investors expect me to do? And if i can't - i should give the money back.**
+- This decision is made **based on comparison between IRR and WACC**. If IRR>WACC, then we should invest, otherwise - return capital
