@@ -55,4 +55,7 @@
 ![image](https://user-images.githubusercontent.com/85560091/134607250-950b2f53-d312-4ef5-9b7f-bc82130ec947.png)
 - **```Types of underwriting commitment```**:
   -  **Firm Commitment**: The underwriter agrees to buy the entire issue and assume full financial responsibility for any unsold shares
+    - Example: A company needs to raise $100M, the bank buys all $100M and then turns around and sells that to investors. If it can sell shares for more than it paid for them, it makes an extra profit. However, if it sells them for less, it loses money
+  - **Best Efforts**: Underwriter commits to selling as much of the issue as possible at agreed-on offering price, but can return any unsold shares to the issues without financial responsibility. This type of commitment is more common
+-  
   -  
