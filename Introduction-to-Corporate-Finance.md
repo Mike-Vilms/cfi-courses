@@ -1,4 +1,14 @@
 # Introduction to Corporate Finance
+- The ultimate purpose of corporate finance is to maximize the value of a business through planning and implementing management recources while balancing risk and profitability
+- Three main activities of Corporate Finance:
+  - **Capital Investments**:
+    - Decide what projects/businesses to invest in
+    - Earn the highest possible risk-adjusted return 
+  - **Capital Financing**:
+    - Determine how to fund capital investments
+    - Optimize the firm's capital structure 
+  - **Dividends and Return of Capital**:
+    - Decide when and how to return capital to investors 
 
 ## Capital Investments
 - M&A: Types of buyers:
@@ -57,5 +67,6 @@
   -  **Firm Commitment**: The underwriter agrees to buy the entire issue and assume full financial responsibility for any unsold shares
     - Example: A company needs to raise $100M, the bank buys all $100M and then turns around and sells that to investors. If it can sell shares for more than it paid for them, it makes an extra profit. However, if it sells them for less, it loses money
   - **Best Efforts**: Underwriter commits to selling as much of the issue as possible at agreed-on offering price, but can return any unsold shares to the issues without financial responsibility. This type of commitment is more common
--  
-  -  
+
+## Dividends and Return of Capital
+
