@@ -53,6 +53,6 @@
     - Vendor note: when owner of a business is selling to a private equity firm and their going to recieve part of their payout for selling the firm later in the future - form of debt that company has to repay to that owner who sold his position later
 - Credit ratings:
 ![image](https://user-images.githubusercontent.com/85560091/134607250-950b2f53-d312-4ef5-9b7f-bc82130ec947.png)
-- ```**Types of underwriting commitment**```:
+- **```Types of underwriting commitment```**:
   -  **Firm Commitment**: The underwriter agrees to buy the entire issue and assume full financial responsibility for any unsold shares
   -  
