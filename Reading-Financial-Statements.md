@@ -6,3 +6,14 @@
   - Closing cash balance will match the balance reflected on the balance sheet 
 
 ## Balance Sheet
+- Current vs. non-current:
+  - Current Assets: Expected to be converted into cash in less than 1 year
+    - Examples: Accounts receivables, inventory
+  - Non-current Assets: Expected to be held greater than 1 year
+    - Example: PPE
+  - Current Liability: Will be paid in less than 1 year
+    - Example: Trade accounts payable
+  - Non-current Liability: Repayment terms longer than 1 year
+    - Example: Loan repayable over a 5 year period
+
+#### Investments
