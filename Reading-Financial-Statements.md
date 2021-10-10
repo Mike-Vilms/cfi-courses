@@ -17,3 +17,9 @@
     - Example: Loan repayable over a 5 year period
 
 #### Investments
+- A company will hold *external* investments for two reasons:
+  - If it has *excess cash* that doesn't have a use for withing a very near term or
+  - If it is accumulating cash to make a large purchase 
+- Investments are either short term - when investments will be held for a less than a year - or long term - more than 1 year
+
+#### Deferred Income Tax
