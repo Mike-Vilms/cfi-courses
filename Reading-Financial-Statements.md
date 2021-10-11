@@ -53,3 +53,14 @@
 #### Contingencies
 - Liabilities that may or may not happen, depending on circumstance
   - Example: law suit
+
+#### Common vs preferred shares
+- Common shares - or common stock - allow for participation in the profits of the company - give right for one vote
+- Preferred shares offer a fixed dividend (may not be paid annually) and paid before common share dividends are paid
+
+#### Authorized and Outstanding Share Capital
+- Authorized shares are the total amount of shares a company can sell
+- Outstanding(Issued) shares are the total amount of shares a company has sold
+
+#### Contributed Surplus
+- Company issues shares with the par value - face value of the share. Excess amount that company recieves for stocks sold is referred as "Contributed Surplus"
