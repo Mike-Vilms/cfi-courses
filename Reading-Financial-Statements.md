@@ -30,3 +30,26 @@
 - If there is less tax payables in the future - it is a asset. If there is more - then it is a liability
 
 #### Goodwill
+- If a company is purchased for more than the fair value of net assets(assets less liabilities), then the **difference between purchase price and fair value of net assets acquired** is recorded as goodwill
+- It is considered as asset, because the reason for paying more for a company's physical assets is because of the intangible value of the company(brand, customers, intellectual capital) - these factors are considered to be benefits that will last longer then one year
+- (!!!???) The value of goodwill is measured each year to determine if it is still appropriate. If not, it is written down to the amount considered to be a fair value
+
+#### Intangible Assets
+- Intangible assets are items of value that are used to generate revenues and have no physical substance
+  - Coca-cola trademark design
+  - Nike's
+  - Patents for innovative product
+  - Copyrights
+ - They are subject to amortization
+ 
+#### Unearned Revenue
+ - Arises when a company sells something it has not yet delivered(???)
+   -  Licenses
+   -  Subscriptions
+ - **Is a liability**
+#### Commitments
+- Future obligations that a company agrees to
+
+#### Contingencies
+- Liabilities that may or may not happen, depending on circumstance
+  - Example: law suit
