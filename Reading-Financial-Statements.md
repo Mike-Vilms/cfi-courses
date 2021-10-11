@@ -64,3 +64,13 @@
 
 #### Contributed Surplus
 - Company issues shares with the par value - face value of the share. Excess amount that company recieves for stocks sold is referred as "Contributed Surplus"
+
+#### Three key financial statements notes
+- Significant accounting policies
+  - Which accounting standards the company follows
+  - How inventory and investments are valued
+  - What type of financial instruments the company has
+  - How revenue is recognized
+  - How PPE is amortized 
+- Direct information
+- Indirect information
