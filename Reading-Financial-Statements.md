@@ -73,4 +73,10 @@
   - How revenue is recognized
   - How PPE is amortized 
 - Direct information
+  - What makes up a numbers in more detail
+  - A breakdown of the types of investments
+  - Debt and financial instruments
+  - What is included in inventory/PPE/Intangible Assets/Income Taxes   
 - Indirect information
+  - Not related to the numbers
+  - Info related to Commitments/Contangencies/Stock based compensation plans
